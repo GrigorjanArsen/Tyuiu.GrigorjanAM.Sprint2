@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GrigorjanAM.Sprint2.Task4.V22.Lib\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib.csproj">
       <Project>{f2c69366-201d-43a7-a104-5918827701d3}</Project>
       <Name>Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib</Name>
     </ProjectReference>

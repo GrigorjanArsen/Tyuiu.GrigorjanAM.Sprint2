@@ -37,11 +37,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{A5DAE761-8A53-4B33-8338-2B3C19626ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13", "Tyuiu.GrigorjanAM.Sprint2.Task4.V22\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.csproj", "{206D3DEE-DBB6-460F-A7D1-B59E23086C0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13", "Tyuiu.GrigorjanAM.Sprint2.Task4.V13\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.csproj", "{206D3DEE-DBB6-460F-A7D1-B59E23086C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib", "Tyuiu.GrigorjanAM.Sprint2.Task4.V22.Lib\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib.csproj", "{F2C69366-201D-43A7-A104-5918827701D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib", "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Lib.csproj", "{F2C69366-201D-43A7-A104-5918827701D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Test", "Tyuiu.GrigorjanAM.Sprint2.Task4.V22.Test\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Test.csproj", "{80D5AB2E-B9A7-4FD1-BDCC-CF1A46FC529D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Test", "Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Test\Tyuiu.GrigorjanAM.Sprint2.Task4.V13.Test.csproj", "{80D5AB2E-B9A7-4FD1-BDCC-CF1A46FC529D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
